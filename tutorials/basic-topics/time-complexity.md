@@ -12,7 +12,7 @@ keywords:
 
 ## Overview
 
-Time Complexity is one of the important measurements when it comes to writing an efficient solution. It estimates how much time your solution needs based on some input. If your solution is too slow, even it passes some test cases, it will still consider it as a wrong answer.
+Time Complexity is one of the important measurements when it comes to writing an efficient solution. It estimates how much time your solution needs to be based on some input. If your solution is too slow, even if it passes some test cases, it will still consider it as a wrong answer.
 
 The time complexity is denoted by Big O notation. Normally, $$n$$ means the input size. For example, if the input is a string $$s$$, then $$n$$ would be the length of $$s$$.
 
